@@ -1,0 +1,9 @@
+{
+  "gezegenler": ["Dunya", "Mars", "Venus"],
+  "baglantilar": {
+    "Dunya": ["Mars"],
+    "Mars": ["Venus"],
+    "Venus": ["Dunya"]
+  },
+  "baslangic": "Dunya"
+}
