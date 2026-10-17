@@ -1,3 +1,6 @@
+#ögrenci: Halis Ensar Yıldız
+#Numara: 20253004032
+#Github deposu:https://github.com/xelhys/uzay-oyunu
 import json
 from pathlib import Path
 def envanter_metni(credits: bool, engines: bool , copilot: bool) -> str:

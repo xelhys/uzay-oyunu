@@ -1,3 +1,6 @@
+#ögrenci: Halis Ensar Yıldız
+#Numara: 20253004032
+#Github deposu:https://github.com/xelhys/uzay-oyunu
 def hamle_sayaci():
     sayac = 0
 
